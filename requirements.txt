@@ -2,7 +2,7 @@
 torch
 torchvision
 omegaconf
-torchmetric
+torchmetrics
 fvcore
 iopath
 xformers
